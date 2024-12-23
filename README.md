@@ -1,7 +1,7 @@
 # Hi There! 👋 
 
 <div style="display: flex; gap: 10px;">
-    <a href="[your_resume_link]">
+    <a href="https://github.com/ALiao18/Resume/blob/main/resumeF24.pdf">
         <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge" alt="Resume"/>
     </a>
     <a href="https://www.linkedin.com/in/andrew-liao18/">
