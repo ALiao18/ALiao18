@@ -28,10 +28,10 @@ When I'm not coding, you'll find me:
 - 📈 Quantitative Research Intern @ Fine Ace Asset Management Co.
 
 ## Featured Projects
-- 🤖 [Advanced CartPole Stabilization](project_link): Deep learning implementation achieving perfect CartPole stability
-- 📊 [CTR Prediction](project_link): Deep learning model for click-through rate prediction using PyTorch
-- 🎵 [Spotify Analytics](project_link): Comprehensive analysis of 52,000 tracks using PCA and regression models
-- ⚽ [FIFA22 Player Analytics](project_link): Predictive modeling for player performance metrics
+- 🤖 [Advanced CartPole Stabilization](https://github.com/ALiao18/Deep-RL-Cartpole): Deep Reinforcement Learning implementation achieving perfect CartPole stability
+- 📊 [CTR Prediction](https://github.com/ALiao18/AVAZU-CTR-Classification): Deep learning model for click-through rate prediction using PyTorch
+- 🎵 [Spotify Analytics](https://github.com/ALiao18/Charting-the-Charts): Comprehensive analysis of 52,000 tracks using PCA and regression models
+- ⚽ [FIFA22 Player Analytics](https://github.com/ALiao18/FIFA22-Player-Data-Analysis): Predictive modeling for player performance metrics
 - Bars around the world (In progress): Building out an interactive map of memorable bars that I've been to share my thoughts!
 
 ## Currently
