@@ -19,7 +19,7 @@ I'm particularly passionate about machine learning, especially in signal process
 
 When I'm not coding, you'll find me:
 - 🥊 Training for Muay Thai
-- 📘 Reading (currently flipping through the MIT Essential Knowledge series!)
+- 📘 Reading (currently flipping through the MIT Essential Knowledge series)
 - 🌍 Learning new languages and exploring different cultures
 - 🍻 Documenting my adventures through memorable bars around the world
 
@@ -32,12 +32,9 @@ When I'm not coding, you'll find me:
 - 📊 [CTR Prediction](https://github.com/ALiao18/AVAZU-CTR-Classification): Deep learning model for click-through rate prediction using PyTorch
 - 🎵 [Spotify Analytics](https://github.com/ALiao18/Charting-the-Charts): Comprehensive analysis of 52,000 tracks using PCA and regression models
 - ⚽ [FIFA22 Player Analytics](https://github.com/ALiao18/FIFA22-Player-Data-Analysis): Predictive modeling for player performance metrics
-- Bars around the world (In progress): Building out an interactive map of memorable bars that I've been to share my thoughts!
 
 ## Currently
 🔭 Seeking ML/Data Science industry internships and research assistant positions for Spring and Summer 2025
 
 ## Technical Skills
 Python | Java | R | SQL | C++ | PyTorch | Scikit-learn | Pandas | NumPy
-
-Feel free to reach out if you'd like to collaborate or just chat about data science, sports, or your favorite local bars! 🎯
