@@ -25,7 +25,7 @@ When I'm not coding, you'll find me:
 
 ## Recent Roles
 - 🔬 Research Engineer Intern @ Outlier AI
-- 📈 Quantitative Research Intern @ Fine Ace Asset Management Co.
+- 📈 Research Intern @ Fine Ace Asset Management Co.
 
 ## Featured Projects
 - 🤖 [Advanced CartPole Stabilization](https://github.com/ALiao18/Deep-RL-Cartpole): Deep Reinforcement Learning implementation achieving perfect CartPole stability
