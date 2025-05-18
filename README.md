@@ -22,11 +22,7 @@ When I'm not coding, you'll find me:
 - 📘 Reading (currently flipping through the MIT Essential Knowledge series)
 - 🌍 Learning new languages and exploring different cultures
 - 🍻 Documenting my adventures through memorable bars around the world
-
-## Recent Roles
-- 🔬 Research Engineer Intern @ Outlier AI
-- 📈 Research Intern @ Fine Ace Asset Management Co.
-
+- 
 ## Featured Projects
 - 🤖 [Advanced CartPole Stabilization](https://github.com/ALiao18/Deep-RL-Cartpole): Deep Reinforcement Learning implementation achieving perfect CartPole stability
 - 📊 [CTR Prediction](https://github.com/ALiao18/AVAZU-CTR-Classification): Deep learning model for click-through rate prediction using PyTorch
