@@ -13,13 +13,17 @@
 </div>
 
 ## About Me
-I'm Andrew, a Senior at NYU Center of Data Science pursuing a joint major in Computer Science and Data Science, with minors in Business Studies and Integrated Design and Media. Originally from Taiwan and currently based in New York, I've had the privilege of studying in Prague and Paris through NYU's study abroad programs.
+My name is, a Senior at NYU Center of Data Science pursuing a joint major in Computer Science and Data Science. I am from Taiwan and am currently based in New York City. 
 
-## Featured Projects
-- 🤖 [Advanced CartPole Stabilization](https://github.com/ALiao18/Deep-RL-Cartpole): Deep Reinforcement Learning implementation achieving perfect CartPole stability (Fall 2024)
-- 📊 [CTR Prediction](https://github.com/ALiao18/AVAZU-CTR-Classification): Deep learning model for click-through rate prediction (Fall 2024)
-- 🎵 [Spotify Analytics](https://github.com/ALiao18/Charting-the-Charts): Comprehensive analysis of 52,000 tracks using PCA and regression models (Spring 2024)
-- ⚽ [FIFA22 Player Analytics](https://github.com/ALiao18/FIFA22-Player-Data-Analysis): Predictive modeling for player performance metrics (Spring 2023)
+I am currently involved with the [CN^3 lab]([url](https://cn3laboratory.org/home.html)), working on
+1. AutoML models for Febrile Seizure (FS) and Sudden Unexpected Death in Children (SUDC) classification
+2. Neural Decoding models for breathing and whisking in mice
+
+I have previously worked on
+1. Emergent Misalignment in Mixture of Expert (MoE) LLMs
+2. Probabilistic graphical models and reinforcement learning for cognitive-map formation and exploration-efficient inference in aliased environments.
+
+My research interests include reinforcement learning and computational neuroscience. 
 
 ## Technical Skills
 Python | Java | R | SQL | C++ | PyTorch | Scikit-learn | Pandas | NumPy
