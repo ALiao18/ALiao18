@@ -24,6 +24,3 @@ I have previously worked on
 2. Probabilistic graphical models and reinforcement learning for cognitive-map formation and exploration-efficient inference in aliased environments.
 
 My research interests include reinforcement learning and computational neuroscience. 
-
-## Technical Skills
-Python | Java | R | SQL | C++ | PyTorch | Scikit-learn | Pandas | NumPy
