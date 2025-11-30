@@ -23,4 +23,4 @@ I have previously worked on
 1. Emergent Misalignment in Mixture of Expert (MoE) LLMs
 2. Probabilistic graphical models and reinforcement learning for cognitive-map formation and exploration-efficient inference in aliased environments.
 
-My research interests include reinforcement learning and computational neuroscience. 
+My research interests include RL, computational neuroscience, and robotics. 
