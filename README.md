@@ -14,7 +14,7 @@
 
 
 ## About Me
-My name is Andrew. I am starting a Masters in AI Engineering, Computational Biomedical Engineering (Thesis track) at Carnegie Mellon University. I plan to conduct research on neural decoding algorithms, as well as non-invsavie and minimally invasive BCI. Previously, I studied Computer Science and Data Science at NYU. I am from Taiwan and am currently based in New York City. 
+My name is Andrew. I am starting a Masters in [AI Engineering, Computational Biomedical Engineering (Thesis track)](https://www.cmu.edu/bme/Academics/artificial-intelligence-engineering-research/index.html) at Carnegie Mellon University. I plan to conduct research on neural decoding algorithms, as well as non-invsavie and minimally invasive BCI. Previously, I studied Computer Science and Data Science at NYU. I am from Taiwan and am currently based in New York City. 
 
 I am currently involved with the [CN^3 Lab](https://cn3laboratory.org/home.html), working on
 1. AutoML models for Febrile Seizure (FS) and Sudden Unexpected Death in Children (SUDC) classification
@@ -24,4 +24,4 @@ I have previously worked on
 1. Emergent Misalignment in Mixture of Expert (MoE) LLMs
 2. Probabilistic graphical models and reinforcement learning for cognitive-map formation and exploration-efficient inference in aliased environments.
 
-My research interests include RL, computational neuroscience, and robotics. 
+My research interests include RL, computational neuroscience. I am also interesed in topics such as computational theories of consciousness and Algorithmic Game Theory. Outside of research, I enjoy hiking, martial arts (Muay Thai, Judo), as well as cooking.  
