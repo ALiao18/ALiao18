@@ -14,7 +14,7 @@
 
 
 ## About Me
-My name is, a Senior at NYU Center of Data Science pursuing a joint major in Computer Science and Data Science. I am from Taiwan and am currently based in New York City. 
+My name is Andrew. I am starting a Masters in AI Engineering (Thesis track) at Carnegie Mellon University. Previously, I studied Computer Science and Data Science at NYU. I am from Taiwan and am currently based in New York City. 
 
 I am currently involved with the [CN^3 Lab](https://cn3laboratory.org/home.html), working on
 1. AutoML models for Febrile Seizure (FS) and Sudden Unexpected Death in Children (SUDC) classification
