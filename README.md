@@ -14,14 +14,11 @@
 
 
 ## About Me
-My name is Andrew. I am starting a Masters in [AI Engineering, CompBME (Thesis track)](https://www.cmu.edu/bme/Academics/artificial-intelligence-engineering-research/index.html) at Carnegie Mellon University. I plan to conduct research on neural decoding algorithms, as well as non-invsavie and minimally invasive BCI. Previously, I studied [Computer and Data Science](https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-data-science-ba/), with a minor in [Integrated Design and Media](https://bulletins.nyu.edu/undergraduate/engineering/programs/integrated-design-media-minor/#curriculumtext) at New York University. I am from Taiwan and am currently based in New York City. 
+My name is Andrew. I am a MS student at Carnegie Mellon University, under the  [AI Engineering, CompBME (Thesis track)](https://www.cmu.edu/bme/Academics/artificial-intelligence-engineering-research/index.html) program. Previously, I studied [Computer and Data Science](https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-data-science-ba/) at New York University. I am currently working as a research mentor at [Algoverse](https://algoverseairesearch.org/). 
 
-I am currently involved with the [CN^3 Lab](https://cn3laboratory.org/home.html), working on
-1. AutoML models for Febrile Seizure (FS) and Sudden Unexpected Death in Children (SUDC) classification
-2. Neural Decoding models for breathing and whisking in mice
+Past works:
+1. Neural Decoding models for breathing and whisking in mice, supervised by [Joaquin Gonzalez](https://scholar.google.com/citations?hl=es&user=rcGEkDgAAAAJ&view_op=list_works&sortby=pubdate), and [Sage Chen](https://med.nyu.edu/faculty/zhe-s-chen), at the [CN^3 Lab](https://cn3laboratory.org/home.html) | [repo](https://github.com/ALiao18/Decoding-Whisker-Motion-Energy)
+2. ML for Febrile Seizure (FS) and SUDC classification, supervised by [Laura Gould](https://med.nyu.edu/faculty/laura-a-gould), [Orrin Devinsky](https://en.wikipedia.org/wiki/Orrin_Devinsky), and [Sage Chen](https://med.nyu.edu/faculty/zhe-s-chen) at the [NYU Langone SUDCRRC](https://med.nyu.edu/centers-programs/sudden-unexplained-death-childhood-registry-research-collaborative/) | [repo](https://github.com/ALiao18/SUDC)
+3. Emergent Misalignment in Mixture of Expert (MoE) LLMs | [repo](https://github.com/ALiao18/EM-MoE), [paper](https://openreview.net/pdf?id=GxBKbc9Cef)
 
-I have previously worked on
-1. Emergent Misalignment in Mixture of Expert (MoE) LLMs
-2. Probabilistic graphical models and reinforcement learning for cognitive-map formation and exploration-efficient inference in aliased environments.
-
-My research interests include RL, computational neuroscience. I am also interesed in topics such as computational theories of consciousness and Algorithmic Game Theory. Outside of research, I enjoy hiking, martial arts (Muay Thai, Judo), as well as cooking.  
+My current research interests are centered around advancing Brain Computer Interfaces (BCIs), specifically decoding algorithms and algorithmic challenges. Hit me up through email if you want to chat!
